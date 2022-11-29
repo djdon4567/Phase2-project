@@ -1,0 +1,184 @@
+{
+    "questions": [
+        {
+            "questionText": "Who developed TypeScript?",
+            "options": [{
+                    "text": "Anders Hejlsberg",
+                    "correct": true
+                },
+                {
+                    "text": "Mark Candy"
+                },
+                {
+                    "text": "Stanlacke"
+                },
+                {
+                    "text": "None"
+                }
+            ],
+            "explanations" : "Anders Hejlsberg developed Typescript."         
+        },
+        {
+            "questionText": "TypeScript was introduced in the year of",
+            "options": [{
+                    "text": "2011"
+                },
+                {
+                    "text": "2012",
+                    "correct": true
+                },
+                {
+                    "text": "2014"
+                },
+                {
+                    "text": "2017"
+                }
+            ],
+            "explanations": "TypeScript was introduced in the year of 2012."
+        },
+        {
+            "questionText": "What are the built-in types in TypeScript?",
+            "options": [{
+                    "text": "Number type"
+                },
+                {
+                    "text": "Boolean type"
+                },
+                {
+                    "text": "Null type"
+                },
+                {
+                    "text": "All of these",
+                    "correct": true
+                }
+            ],
+            "explanations": "All of three are the built-in types in TypeScript."
+        },
+        {
+            "questionText": "What are different components of TypeScript?",
+            "options": [{
+                    "text": "Language"
+                },
+                {
+                    "text": "Compiler"
+                },
+                {
+                    "text": "Language Service"
+                },
+                {
+                    "text": "All of the above",
+                    "correct": true
+                }
+            ],
+            "explanations": "All of three are different components of TypeScript"
+        },
+        {
+            "questionText": "AOT stands for :",
+            "options": [{
+                    "text": "Angular Object Templates"
+                },
+                {
+                    "text": "Ahead of Time compilation",
+                    "correct": true
+                },
+                {
+                    "text": "Both of a and b"
+                },
+                {
+                    "text": "None of the above"
+                }
+            ],
+            "explanations": "AOT stands for Ahead of Time compilation"
+        },
+        {  
+            "questionText": "Choose the incorrect hook application lifecycle :",
+            "options": [{
+                    "text": "ngOnInit"
+                },
+                {
+                    "text": "ngViewStart",
+                    "correct": true
+                },
+                {
+                    "text": "ngOnChanges"
+                },
+                {
+                    "text": "None of the above"
+                }  
+            ],        
+            "explanations": "ngViewStart is not a hook appliaction lifecycle."     
+        },       
+        {        
+            "questionText": "The router is a part of which of the following given model?",    
+            "options": [{
+                    "text": "@angular/router",
+                    "correct": true
+                },
+                {
+                    "text": "@angular/core"
+                },
+                {
+                    "text": "Both a and b"
+                },
+                {
+                    "text": "None of the above"
+                }
+            ],
+            "explanations": "Router is a part of @angular/router."
+        },
+        {
+            "questionText": "What can RxJs be used for?",
+            "options": [{
+                    "text": "Server-side"
+                },
+                {
+                    "text": "Browser"
+                },
+                {
+                    "text": "Both a and b",
+                    "correct": true
+                },
+                {
+                    "text": "None of the above"
+                }
+            ],
+            "explanations": "RxJs can be used for both Server-side and browser."                
+        },
+        {
+            "questionText": "Which decorator is used for configuring model class",
+            "options": [{
+                    "text": "@NgApp"
+                },
+                {
+                    "text": "@NgModule",
+                    "correct": true
+                },
+                {
+                    "text": "Both a and b are correct"
+                },
+                {
+                    "text": "None of the above"
+                }
+            ],
+            "explanations": "@NgModule is used for configuring the model class."
+        },
+        {
+            "questionText": "How is interpolation in angular 2 done?",
+            "options": [{
+                    "text": "{{{}}}"
+                },
+                {
+                    "text": "{{}}",
+                    "correct": true
+                },
+                {
+                    "text": "{{|var}}"
+                },
+                {
+                    "text": "!!!!"
+                }
+            ],
+            "explanations": "Using {{}} interpolation is done in angular 2."
+        }
+    ]
+}
